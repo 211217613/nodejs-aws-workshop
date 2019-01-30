@@ -62,7 +62,7 @@ Complete the wizard as shown below:
 
 ![EB init](./images/configure-elastic-beanstalk.png)
 
-The command line tool will automatically detect that this is a Node.js application. Note that for consistency please make sure you choose the "us-east-1" region for deployment. At the time of writing this workshop "us-east-1" is #13 in the menu.
+The command line tool will automatically detect that this is a Node.js application. Note that for consistency please make sure you choose the "us-east-1" region for deployment. At the time of writing this workshop "us-east-1" is #1 in the menu.
 
 &nbsp;
 
